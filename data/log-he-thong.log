@@ -1,0 +1,6 @@
+2026-10-27 08:00:01 INFO Sensor TR-001 started
+2026-10-27 08:01:12 ERROR 404 Missing endpoint /sensor/001
+2026-10-27 08:02:30 WARNING Battery low TR-014
+2026-10-27 08:04:05 CRITICAL Temperature threshold exceeded TR-023
+2026-10-27 08:06:22 TIMEOUT Gateway TR-009
+2026-10-27 08:07:45 ERROR 404 Missing endpoint /sensor/045
